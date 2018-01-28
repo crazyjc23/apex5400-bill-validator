@@ -3,12 +3,12 @@
  * email: simple.gui2018gmail.com
  * info:
  * sample program for apex5400 bill acceptor using ISR
- * "developed by students by student"
+ * "developed for students by student"
  * pin config
  * apex 5400:
  * pin 1: low level credit line output
  * pin 4: dc power ground
- * pin 11: dcc power 12 volts
+ * pin 11: dc power 12 volts
  * opto coupler pc817:
  * pin1 to +12volts pull_up with 1k ohm resistor
  * pin 2 to pin 1 of apex 5400 bill validator
